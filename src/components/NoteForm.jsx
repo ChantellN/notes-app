@@ -30,7 +30,7 @@ const NoteForm = ({ notes, setNotes }) => {
     // Reset form data
     setFormData({
       title: '',
-      category: 'work',
+      category: 'Work',
       priority: 'Medium',
       description: '',
     });
